@@ -23,7 +23,6 @@
     width="109"
     height="40"
   />
-<<<<<<< HEAD
   <nuxt-img
       :src="'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/500px-NewTux.svg.png?20081002211004'"
       alt="Exam Path finder"
@@ -44,12 +43,11 @@
       width="100"
       height="100"
     />
-=======
     <h3>MartialArts4B</h3>
   <img
     :src="'/MartialArts4B.svg'"
     alt="Exam Path finder"
-    format="svg"
+    format="svg"git 
     fetchpriority="low"
     loading="lazy"
     decoding="async"
@@ -67,7 +65,6 @@
     width="109"
     height="40"
   />
->>>>>>> c4afa0a (change images)
 
   </div>
 </template>
